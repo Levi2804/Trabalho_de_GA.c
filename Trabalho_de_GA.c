@@ -2,8 +2,8 @@
 #include <math.h>
 
 int main() {
-    float Px, Py, Pz;  // Essas são as coordenadas do ponto P
-    float A_x, A_y, A_z;  // Essas são as coordenadas de um ponto A da reta
+    float Px, Py, Pz;  // Essas sao as coordenadas do ponto P
+    float A_x, A_y, A_z;  // Essas sao as coordenadas de um ponto A da reta
     float vx, vy, vz;  // Vetor diretor da reta (coeficiente de t nas equações de x, y e z, respectivamente)
 
     printf("===============================================");
